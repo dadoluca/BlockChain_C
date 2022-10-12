@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "mylib.h": "c",
+        "wait.h": "c",
+        "limits": "c",
+        "libromastro.h": "c",
+        "common.h": "c",
+        "stdio.h": "c",
+        "type_traits": "c"
+    }
+}
