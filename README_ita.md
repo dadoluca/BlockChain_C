@@ -1,5 +1,3 @@
-# SistemiOperativi
-
 # Progetto Blockchain in C
 Questo repository contiene l'implementazione di un progetto di blockchain in linguaggio C. 
 
